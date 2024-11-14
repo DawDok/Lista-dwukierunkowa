@@ -1,7 +1,4 @@
 ﻿  ListaDwukierunkowa.cpp
   main.cpp
   Generowanie kodu...
-/ListaDwukierunkowa.cpp(1,1): error C1083: Nie można otworzyć pliku źródło: 'ListaDwukierunkowa.cpp': No such file or directory
-  (kompilowanie pliku źródłowego „/ListaDwukierunkowa.cpp”)
-  
-C:\Users\gfiej\OneDrive\Desktop\Lista-dwukierunkowa\ConsoleApplication17\main.cpp(1,10): error C1083: Nie można otworzyć pliku dołącz: 'ListaDwukierunkowa.h': No such file or directory
+  ConsoleApplication17.vcxproj -> C:\Users\gfiej\OneDrive\Desktop\Lista-dwukierunkowa\x64\Debug\ConsoleApplication17.exe

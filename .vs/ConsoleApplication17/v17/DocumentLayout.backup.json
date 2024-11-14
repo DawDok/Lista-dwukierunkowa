@@ -13,6 +13,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{4F0F01F7-E079-4FA9-9482-E9A61D5A051A}|ConsoleApplication17\\ConsoleApplication17.vcxproj|C:\\Users\\gfiej\\OneDrive\\Desktop\\Lista-dwukierunkowa\\ConsoleApplication17\\ListaDwukierunkowa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F0F01F7-E079-4FA9-9482-E9A61D5A051A}|ConsoleApplication17\\ConsoleApplication17.vcxproj|solutionrelative:ConsoleApplication17\\ListaDwukierunkowa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfiej\\OneDrive\\Desktop\\zaawansowane1\\Projekt-1-zaawansowane\\Projekt1 zaawansowane\\Projekt1 zaawansowane\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB43451-9F41-49BE-87C3-827AA1B28464}|..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_7df0cd3a\\SingleFileISense\\_sfi_68f1d71a-3d50-4b91-8f75-be9fb4c8e365_.vcxproj|C:\\USERS\\GFIEJ\\ONEDRIVE\\DESKTOP\\ZAAWANSOWANE1\\PROJEKT-1-ZAAWANSOWANE\\PROJEKT1 ZAAWANSOWANE\\PROJEKT1 ZAAWANSOWANE\\1.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +28,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1.h",
+              "DocumentMoniker": "C:\\Users\\gfiej\\OneDrive\\Desktop\\zaawansowane1\\Projekt-1-zaawansowane\\Projekt1 zaawansowane\\Projekt1 zaawansowane\\1.h",
+              "RelativeDocumentMoniker": "..\\zaawansowane1\\Projekt-1-zaawansowane\\Projekt1 zaawansowane\\Projekt1 zaawansowane\\1.h",
+              "ToolTip": "C:\\Users\\gfiej\\OneDrive\\Desktop\\zaawansowane1\\Projekt-1-zaawansowane\\Projekt1 zaawansowane\\Projekt1 zaawansowane\\1.h",
+              "RelativeToolTip": "..\\zaawansowane1\\Projekt-1-zaawansowane\\Projekt1 zaawansowane\\Projekt1 zaawansowane\\1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T12:47:28.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1.cpp",
+              "DocumentMoniker": "C:\\Users\\gfiej\\OneDrive\\Desktop\\zaawansowane1\\Projekt-1-zaawansowane\\Projekt1 zaawansowane\\Projekt1 zaawansowane\\1.cpp",
+              "RelativeDocumentMoniker": "..\\zaawansowane1\\Projekt-1-zaawansowane\\Projekt1 zaawansowane\\Projekt1 zaawansowane\\1.cpp",
+              "ToolTip": "C:\\Users\\gfiej\\OneDrive\\Desktop\\zaawansowane1\\Projekt-1-zaawansowane\\Projekt1 zaawansowane\\Projekt1 zaawansowane\\1.cpp",
+              "RelativeToolTip": "..\\zaawansowane1\\Projekt-1-zaawansowane\\Projekt1 zaawansowane\\Projekt1 zaawansowane\\1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T12:44:45.989Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,9 +64,10 @@
               "RelativeDocumentMoniker": "ConsoleApplication17\\ListaDwukierunkowa.h",
               "ToolTip": "C:\\Users\\gfiej\\OneDrive\\Desktop\\Lista-dwukierunkowa\\ConsoleApplication17\\ListaDwukierunkowa.h",
               "RelativeToolTip": "ConsoleApplication17\\ListaDwukierunkowa.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-14T12:22:35.057Z"
+              "WhenOpened": "2024-11-14T12:22:35.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,9 +77,10 @@
               "RelativeDocumentMoniker": "ConsoleApplication17\\ListaDwukierunkowa.cpp",
               "ToolTip": "C:\\Users\\gfiej\\OneDrive\\Desktop\\Lista-dwukierunkowa\\ConsoleApplication17\\ListaDwukierunkowa.cpp",
               "RelativeToolTip": "ConsoleApplication17\\ListaDwukierunkowa.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-14T12:22:35.167Z"
+              "WhenOpened": "2024-11-14T12:22:35.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +90,7 @@
               "RelativeDocumentMoniker": "ConsoleApplication17\\main.cpp",
               "ToolTip": "C:\\Users\\gfiej\\OneDrive\\Desktop\\Lista-dwukierunkowa\\ConsoleApplication17\\main.cpp",
               "RelativeToolTip": "ConsoleApplication17\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-14T12:22:35.31Z",
               "EditorCaption": ""
