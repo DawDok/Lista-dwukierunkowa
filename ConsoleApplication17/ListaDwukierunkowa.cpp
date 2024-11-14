@@ -109,5 +109,50 @@ void ListaDwukierunkowa::removeAt(int index) {       // Usuwa element pod wskaza
     delete current;
 }
 
+void ListaDwukierunkowa::display() const {         // Wyœwietla elementy listy od pocz¹tku do koñca
+    Wezel* current = head;
+    while (current) {
+        cout << current->data << " ";
+        current = current->next;
+    }
+    cout << endl;
+}
+
+
+void ListaDwukierunkowa::displayReverse() const {         // Wyœwietla elementy listy od koñca do pocz¹tku
+    Wezel* current = tail;
+    while (current) {
+        cout << current->data << " ";
+        current = current->prev;
+    }
+    cout << endl;
+}
+
+
+void ListaDwukierunkowa::displayNext(Wezel* wezel) const {        // Wyœwietla nastêpny element dla danego wêz³a
+    if (wezel && wezel->next) {
+        cout << wezel->next->data << endl;
+    }
+    else {
+        cout << "Brak nastêpnego elementu" << endl;
+    }
+}
+
+
+void ListaDwukierunkowa::displayPrev(Wezel* wezel) const {        // Wyœwietla poprzedni element dla danego wêz³a
+    if (wezel && wezel->prev) {
+        cout << wezel->prev->data << endl;
+    }
+    else {
+        cout << "Brak poprzedniego elementu" << endl;
+    }
+}
+
+
+void ListaDwukierunkowa::clear() {
+    while (head) {                      // Usuwa wszystkie elementy listy
+        removeFront();
+    }
+}
 
 
